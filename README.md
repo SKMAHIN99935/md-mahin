@@ -1,7 +1,7 @@
 # md-mahin
 
-Tools Hack Akun Facebook Bertarget $ apt update && apt upgrade -y
-
+Tools Hack Akun Facebook Bertarget
+$ apt update && apt upgrade -y
 $ pkg install python2-dev
 
 $ pkg install python2-y
